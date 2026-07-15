@@ -13,3 +13,7 @@ Un espacio que nace de los intereses de los habitantes más antiguos de los barr
 ### Periodo 2025-10
 - [Felipe Morales Espitia](https://github.com/FelipeMoralesE)
 - [Esteban Altamiranda Julio](https://www.linkedin.com/in/esteban-altamiranda-331424274/)
+### Periodo 2026-10
+- [FRancisco Javier Guzman Villegas](https://github.com/Pacho73G)
+- [Santiago Pineda Mora]()
+- [Andres David Rueda Sandoval]()
